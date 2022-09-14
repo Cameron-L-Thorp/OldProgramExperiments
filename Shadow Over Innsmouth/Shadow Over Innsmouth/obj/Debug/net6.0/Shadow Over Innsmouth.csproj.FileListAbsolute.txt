@@ -1,0 +1,15 @@
+C:\Users\thorp\Desktop\Programs\Shadow Over Innsmouth\Shadow Over Innsmouth\bin\Debug\net6.0\Shadow Over Innsmouth.exe
+C:\Users\thorp\Desktop\Programs\Shadow Over Innsmouth\Shadow Over Innsmouth\bin\Debug\net6.0\Shadow Over Innsmouth.deps.json
+C:\Users\thorp\Desktop\Programs\Shadow Over Innsmouth\Shadow Over Innsmouth\bin\Debug\net6.0\Shadow Over Innsmouth.runtimeconfig.json
+C:\Users\thorp\Desktop\Programs\Shadow Over Innsmouth\Shadow Over Innsmouth\bin\Debug\net6.0\Shadow Over Innsmouth.dll
+C:\Users\thorp\Desktop\Programs\Shadow Over Innsmouth\Shadow Over Innsmouth\bin\Debug\net6.0\Shadow Over Innsmouth.pdb
+C:\Users\thorp\Desktop\Programs\Shadow Over Innsmouth\Shadow Over Innsmouth\obj\Debug\net6.0\Shadow Over Innsmouth.csproj.AssemblyReference.cache
+C:\Users\thorp\Desktop\Programs\Shadow Over Innsmouth\Shadow Over Innsmouth\obj\Debug\net6.0\Shadow Over Innsmouth.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thorp\Desktop\Programs\Shadow Over Innsmouth\Shadow Over Innsmouth\obj\Debug\net6.0\Shadow Over Innsmouth.AssemblyInfoInputs.cache
+C:\Users\thorp\Desktop\Programs\Shadow Over Innsmouth\Shadow Over Innsmouth\obj\Debug\net6.0\Shadow Over Innsmouth.AssemblyInfo.cs
+C:\Users\thorp\Desktop\Programs\Shadow Over Innsmouth\Shadow Over Innsmouth\obj\Debug\net6.0\Shadow Over Innsmouth.csproj.CoreCompileInputs.cache
+C:\Users\thorp\Desktop\Programs\Shadow Over Innsmouth\Shadow Over Innsmouth\obj\Debug\net6.0\Shadow Over Innsmouth.dll
+C:\Users\thorp\Desktop\Programs\Shadow Over Innsmouth\Shadow Over Innsmouth\obj\Debug\net6.0\refint\Shadow Over Innsmouth.dll
+C:\Users\thorp\Desktop\Programs\Shadow Over Innsmouth\Shadow Over Innsmouth\obj\Debug\net6.0\Shadow Over Innsmouth.pdb
+C:\Users\thorp\Desktop\Programs\Shadow Over Innsmouth\Shadow Over Innsmouth\obj\Debug\net6.0\Shadow Over Innsmouth.genruntimeconfig.cache
+C:\Users\thorp\Desktop\Programs\Shadow Over Innsmouth\Shadow Over Innsmouth\obj\Debug\net6.0\ref\Shadow Over Innsmouth.dll

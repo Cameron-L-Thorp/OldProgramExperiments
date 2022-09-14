@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Shadow Over Innsmouth/1.0.0": {
+        "runtime": {
+          "Shadow Over Innsmouth.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Shadow Over Innsmouth/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
