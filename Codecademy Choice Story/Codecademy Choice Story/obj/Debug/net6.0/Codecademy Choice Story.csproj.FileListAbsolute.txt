@@ -1,0 +1,15 @@
+C:\Users\thorp\Desktop\Programs\Codecademy Choice Story\Codecademy Choice Story\bin\Debug\net6.0\Codecademy Choice Story.exe
+C:\Users\thorp\Desktop\Programs\Codecademy Choice Story\Codecademy Choice Story\bin\Debug\net6.0\Codecademy Choice Story.deps.json
+C:\Users\thorp\Desktop\Programs\Codecademy Choice Story\Codecademy Choice Story\bin\Debug\net6.0\Codecademy Choice Story.runtimeconfig.json
+C:\Users\thorp\Desktop\Programs\Codecademy Choice Story\Codecademy Choice Story\bin\Debug\net6.0\Codecademy Choice Story.dll
+C:\Users\thorp\Desktop\Programs\Codecademy Choice Story\Codecademy Choice Story\bin\Debug\net6.0\Codecademy Choice Story.pdb
+C:\Users\thorp\Desktop\Programs\Codecademy Choice Story\Codecademy Choice Story\obj\Debug\net6.0\Codecademy Choice Story.csproj.AssemblyReference.cache
+C:\Users\thorp\Desktop\Programs\Codecademy Choice Story\Codecademy Choice Story\obj\Debug\net6.0\Codecademy Choice Story.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thorp\Desktop\Programs\Codecademy Choice Story\Codecademy Choice Story\obj\Debug\net6.0\Codecademy Choice Story.AssemblyInfoInputs.cache
+C:\Users\thorp\Desktop\Programs\Codecademy Choice Story\Codecademy Choice Story\obj\Debug\net6.0\Codecademy Choice Story.AssemblyInfo.cs
+C:\Users\thorp\Desktop\Programs\Codecademy Choice Story\Codecademy Choice Story\obj\Debug\net6.0\Codecademy Choice Story.csproj.CoreCompileInputs.cache
+C:\Users\thorp\Desktop\Programs\Codecademy Choice Story\Codecademy Choice Story\obj\Debug\net6.0\Codecademy Choice Story.dll
+C:\Users\thorp\Desktop\Programs\Codecademy Choice Story\Codecademy Choice Story\obj\Debug\net6.0\refint\Codecademy Choice Story.dll
+C:\Users\thorp\Desktop\Programs\Codecademy Choice Story\Codecademy Choice Story\obj\Debug\net6.0\Codecademy Choice Story.pdb
+C:\Users\thorp\Desktop\Programs\Codecademy Choice Story\Codecademy Choice Story\obj\Debug\net6.0\Codecademy Choice Story.genruntimeconfig.cache
+C:\Users\thorp\Desktop\Programs\Codecademy Choice Story\Codecademy Choice Story\obj\Debug\net6.0\ref\Codecademy Choice Story.dll
