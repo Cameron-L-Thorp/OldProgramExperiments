@@ -1,0 +1,20 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Killer_rabbit.JPG" />
+    <None Remove="Skull_Background.JPG" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Killer_rabbit.JPG" />
+    <Resource Include="Skull_Background.JPG" />
+  </ItemGroup>
+
+</Project>
