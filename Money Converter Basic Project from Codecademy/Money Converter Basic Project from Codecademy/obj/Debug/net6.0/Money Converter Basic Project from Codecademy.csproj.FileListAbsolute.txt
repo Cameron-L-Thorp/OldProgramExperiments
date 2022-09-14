@@ -1,0 +1,15 @@
+C:\Users\thorp\Desktop\Programs\Money Converter Basic Project from Codecademy\Money Converter Basic Project from Codecademy\obj\Debug\net6.0\Money Converter Basic Project from Codecademy.csproj.AssemblyReference.cache
+C:\Users\thorp\Desktop\Programs\Money Converter Basic Project from Codecademy\Money Converter Basic Project from Codecademy\obj\Debug\net6.0\Money Converter Basic Project from Codecademy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thorp\Desktop\Programs\Money Converter Basic Project from Codecademy\Money Converter Basic Project from Codecademy\obj\Debug\net6.0\Money Converter Basic Project from Codecademy.AssemblyInfoInputs.cache
+C:\Users\thorp\Desktop\Programs\Money Converter Basic Project from Codecademy\Money Converter Basic Project from Codecademy\obj\Debug\net6.0\Money Converter Basic Project from Codecademy.AssemblyInfo.cs
+C:\Users\thorp\Desktop\Programs\Money Converter Basic Project from Codecademy\Money Converter Basic Project from Codecademy\obj\Debug\net6.0\Money Converter Basic Project from Codecademy.csproj.CoreCompileInputs.cache
+C:\Users\thorp\Desktop\Programs\Money Converter Basic Project from Codecademy\Money Converter Basic Project from Codecademy\bin\Debug\net6.0\Money Converter Basic Project from Codecademy.exe
+C:\Users\thorp\Desktop\Programs\Money Converter Basic Project from Codecademy\Money Converter Basic Project from Codecademy\bin\Debug\net6.0\Money Converter Basic Project from Codecademy.deps.json
+C:\Users\thorp\Desktop\Programs\Money Converter Basic Project from Codecademy\Money Converter Basic Project from Codecademy\bin\Debug\net6.0\Money Converter Basic Project from Codecademy.runtimeconfig.json
+C:\Users\thorp\Desktop\Programs\Money Converter Basic Project from Codecademy\Money Converter Basic Project from Codecademy\bin\Debug\net6.0\Money Converter Basic Project from Codecademy.dll
+C:\Users\thorp\Desktop\Programs\Money Converter Basic Project from Codecademy\Money Converter Basic Project from Codecademy\bin\Debug\net6.0\Money Converter Basic Project from Codecademy.pdb
+C:\Users\thorp\Desktop\Programs\Money Converter Basic Project from Codecademy\Money Converter Basic Project from Codecademy\obj\Debug\net6.0\Money Converter Basic Project from Codecademy.dll
+C:\Users\thorp\Desktop\Programs\Money Converter Basic Project from Codecademy\Money Converter Basic Project from Codecademy\obj\Debug\net6.0\refint\Money Converter Basic Project from Codecademy.dll
+C:\Users\thorp\Desktop\Programs\Money Converter Basic Project from Codecademy\Money Converter Basic Project from Codecademy\obj\Debug\net6.0\Money Converter Basic Project from Codecademy.pdb
+C:\Users\thorp\Desktop\Programs\Money Converter Basic Project from Codecademy\Money Converter Basic Project from Codecademy\obj\Debug\net6.0\Money Converter Basic Project from Codecademy.genruntimeconfig.cache
+C:\Users\thorp\Desktop\Programs\Money Converter Basic Project from Codecademy\Money Converter Basic Project from Codecademy\obj\Debug\net6.0\ref\Money Converter Basic Project from Codecademy.dll
