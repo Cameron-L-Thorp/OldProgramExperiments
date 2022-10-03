@@ -2,4 +2,8 @@
 # This .gitignore file was automatically created by Microsoft(R) Visual Studio.
 ################################################################################
 
-/Codecademy Choice Story/.vs/Codecademy Choice Story/FileContentIndex
+/Codecademy Choice Story/.vs/
+
+obj/
+
+bin/
